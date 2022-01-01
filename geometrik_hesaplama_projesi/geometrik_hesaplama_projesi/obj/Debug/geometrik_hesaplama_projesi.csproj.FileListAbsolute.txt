@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\bin\Debug\geometrik_hesaplama_projesi.exe.config
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\bin\Debug\geometrik_hesaplama_projesi.exe
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\bin\Debug\geometrik_hesaplama_projesi.pdb
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\obj\Debug\geometrik_hesaplama_projesi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\obj\Debug\geometrik_hesaplama_projesi.Form1.resources
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\obj\Debug\geometrik_hesaplama_projesi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\obj\Debug\geometrik_hesaplama_projesi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\obj\Debug\geometrik_hesaplama_projesi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\obj\Debug\geometrik_hesaplama_projesi.exe
+C:\Users\Lenovo\Desktop\yazılım\nesneye yönelik programlama\yazılım ile ilgili projeler\geometrik_hesaplama_projesi\geometrik_hesaplama_projesi\obj\Debug\geometrik_hesaplama_projesi.pdb
