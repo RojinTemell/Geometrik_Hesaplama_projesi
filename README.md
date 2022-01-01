@@ -1,0 +1,1 @@
+# Geometrik_Hesaplama_projesi
